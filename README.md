@@ -13,7 +13,7 @@ This project mainly aims at being able to detect license plates in low light. Th
 
 1.Clone the repo :
 
-      git clone https://github.com/Yagmurtabak/Customer-Registration-Form-Project.git
+      git clone https://github.com/Yagmurtabak/License-Plate-Recognition-with-Low-Light.git
       
 2.Create Dataset :
 
