@@ -11,11 +11,11 @@ This project mainly aims at being able to detect license plates in low light. Th
 
 ### Installation:
 
-1. Clone the repo :
+1.Clone the repo :
 
       git clone https://github.com/Yagmurtabak/Customer-Registration-Form-Project.git
       
-2. Create Dataset :
+2.Create Dataset :
 
      Create a dataset of certain images suitable for the purpose of the project.
      
