@@ -21,7 +21,7 @@ This project mainly aims at being able to detect license plates in low light. Th
      
 3.Interface Design :
 
-    GUI interface design can be changed with the help of plate_detection_interface.fig file.
+    GUI interface design can be changed with the help of plate_detection_interface.fig file.(Just write guide on commend window after than open the .fig file.)
     
 4.Run Project :
 
